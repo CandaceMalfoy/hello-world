@@ -1,0 +1,12 @@
+  331  mkdir checkpoint_exercise
+  332  cd checkpoint_exercise
+  333  touch bloc_cl_checkpoint.txt
+  334  pwd
+  335  cat bloc_cl_checkpoint.txt
+  336  open .
+  337  cat bloc_cl_checkpoint.txt
+  338  pwd
+  339  mv bloc_cl_checkpoint.txt cl_checkpoint.txt
+  340  pwd
+  341  ls
+  342  history

@@ -1,3 +1,13 @@
+Switched to a new branch 'shopping_cart_assignment'
+candacefuller@Candaces-MacBook-Air:~/bloc/shopping_cart$ git rm apple.txt
+rm 'apple.txt'
+candacefuller@Candaces-MacBook-Air:~/bloc/shopping_cart$ open . banana.txt
+candacefuller@Candaces-MacBook-Air:~/bloc/shopping_cart$ touch lettuce.txt
+candacefuller@Candaces-MacBook-Air:~/bloc/shopping_cart$ git diff > lettuce.txt
+candacefuller@Candaces-MacBook-Air:~/bloc/shopping_cart$ git commit -m "Add lettuce.txt on shopping_cart_assignment"
+[shopping_cart_assignment 888fa83] Add lettuce.txt on shopping_cart_assignment
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 apple.txt
 candacefuller@Candaces-MacBook-Air:~/bloc/shopping_cart$ cat lettuce.txt
 diff --git a/banana.txt b/banana.txt
 index e69de29..de49619 100644
